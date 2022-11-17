@@ -2,7 +2,7 @@
 - 👀 I’m interested in PROGRAMMING
 - 🌱 I’m currently learning B.Tech Computer Science and Business System
 - 💞️ I’m focussing on Cyber security and Software Development
-- 📫 reach me @ www.bit.ly/Robinjoney
+- 📫 reach me @ [www.bit.ly/Robinjoney](https://robin-joney.github.io/portfolio/)
 
 <!---
 Robin-Joney/Robin-Joney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
